@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+<script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>TROIS TEMPS - 23/05/2023 20H00 - Paris - Ensemble intercontemporain</title>
+    <script type="text/javascript" src="https://www.ensembleintercontemporain.com/content/themes/eic/assets/js/jquery-3.2.1.min.js"></script>
+    <meta name='robots' content='index, follow, max-video-preview:-1, max-snippet:-1, max-image-preview:large' />
+<link rel="alternate" hreflang="en" href="https://www.ensembleintercontemporain.com/en/concert/trois-temps-2-2023-05-23-20h00-paris/" />
+<link rel="alternate" hreflang="fr" href="https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="TROIS TEMPS - 23/05/2023 20H00 - Paris - Ensemble intercontemporain" />
+	<meta property="og:url" content="https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/" />
+	<meta property="og:site_name" content="Ensemble intercontemporain" />
+	<meta property="og:image" content="http://www.ensembleintercontemporain.com/content/uploads/2022/06/eic-arts-florissants-orchestre-de-paris-2019ceic-dscf0994.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1293" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.ensembleintercontemporain.com/en/#website","url":"https://www.ensembleintercontemporain.com/en/","name":"Ensemble intercontemporain","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ensembleintercontemporain.com/en/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/#primaryimage","url":"https://www.ensembleintercontemporain.com/content/uploads/2022/06/eic-arts-florissants-orchestre-de-paris-2019ceic-dscf0994.jpg","contentUrl":"https://www.ensembleintercontemporain.com/content/uploads/2022/06/eic-arts-florissants-orchestre-de-paris-2019ceic-dscf0994.jpg","width":1920,"height":1293},{"@type":"WebPage","@id":"https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/#webpage","url":"https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/","name":"TROIS TEMPS - 23/05/2023 20H00 - Paris - Ensemble intercontemporain","isPartOf":{"@id":"https://www.ensembleintercontemporain.com/en/#website"},"primaryImageOfPage":{"@id":"https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/#primaryimage"},"datePublished":"2022-06-23T14:02:21+00:00","dateModified":"2022-06-23T14:02:21+00:00","breadcrumb":{"@id":"https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/"]}]},{"@type":"BreadcrumbList","@id":"https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.ensembleintercontemporain.com/en/"},{"@type":"ListItem","position":2,"name":"TROIS TEMPS &#8211; 23/05/2023 20H00 &#8211; Paris"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.ensembleintercontemporain.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="https://api.w.org/" href="https://www.ensembleintercontemporain.com/en/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ensembleintercontemporain.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ensembleintercontemporain.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.2" />
+<link rel='shortlink' href='https://www.ensembleintercontemporain.com/en/?p=22974' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ensembleintercontemporain.com/en/wp-json/oembed/1.0/embed/?url=https%3A%2F%2Fwww.ensembleintercontemporain.com%2Fen%2Fconcert%2Ftrois-temps-2-2023-05-23-20h00-paris%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ensembleintercontemporain.com/en/wp-json/oembed/1.0/embed/?url=https%3A%2F%2Fwww.ensembleintercontemporain.com%2Fen%2Fconcert%2Ftrois-temps-2-2023-05-23-20h00-paris%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.2.1 stt:1,4;" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/favicon-16x16.png">
+    <link rel="manifest" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="shortcut icon" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/images/favicon.ico" />
+
+    <link type="text/css" rel="stylesheet" media="all" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/css/styles.css?t=2022092309" />
+    <link type="text/css" rel="stylesheet" media="all" href="https://www.ensembleintercontemporain.com/content/themes/eic/assets/css/gform.css?t=2022092309" />
+
+    <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript">
+        tarteaucitron.init({
+            "privacyUrl": "https://www.ensembleintercontemporain.com/fr/politique-de-confidentialite/",
+            "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+            "cookieName": "tartaucitron", /* Cookie name */
+            "orientation": "bottom", /* Banner position (top - bottom) */
+            "showAlertSmall": false, /* Show the small banner on bottom right */
+            "cookieslist": false, /* Show the cookie list */
+            "adblocker": false, /* Show a Warning if an adblocker is detected */
+            "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+            "highPrivacy": false, /* Disable auto consent */
+            "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+            "removeCredit": true, /* Remove credit link */
+            "moreInfoLink": false, /* Show more info link */
+            "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+            "readmoreLink": "/cookiespolicy" /* Change the default readmore link */
+        });
+        tarteaucitron.user.gajsUa = 'UA-2622711-2';
+        tarteaucitron.user.gajsMore = function () { };
+        (tarteaucitron.job = tarteaucitron.job || []).push('gajs');
+    </script>
+</head>
+<body class="onload single events" itemscope itemtype="http://schema.org/WebPage">
+<div id="wrapper">
+    <header class="justify">
+        <a href="https://www.ensembleintercontemporain.com/en/" title="Home" id="logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 82.9">
+    <path class="logo-txt" d="M22.2 10.3V.1h2.1l2.7 6v-6h1.8v10.2H27l-3-6.6v6.6h-1.8zM48.6 3c-.3-1-.7-1.4-1.4-1.4s-1.1.4-1.1 1.1c0 1.5 4.3 1.6 4.3 4.8 0 1.7-1.2 2.9-3.2 2.9-1.6 0-2.8-.9-3.3-2.9l1.9-.4c.2 1.2.9 1.7 1.5 1.7.7 0 1.2-.5 1.2-1.2 0-1.9-4.3-1.9-4.3-4.8 0-1.7 1-2.8 3.1-2.8C49 0 50 1 50.4 2.5l-1.8.5zM66.5 10.3V.1h5.3v1.7h-3.4v2.3H71v1.7h-2.6v2.7H72v1.7h-5.5zM86.5 10.3V.1h2.7L91 6.8 92.8.1h2.7v10.2h-1.7v-8l-2.1 8h-1.5l-2.1-8v8h-1.6zM109.6.1h2.7c2.1 0 3.3.9 3.3 2.6 0 .9-.4 1.6-1.3 2.1 1.1.7 1.5 1.2 1.5 2.5 0 2-1.4 2.9-3.4 2.9h-2.8V.1zm1.9 4.1h.7c.9 0 1.5-.5 1.5-1.2s-.4-1.2-1.4-1.2h-.8v2.4zm0 4.5h.8c1 0 1.6-.6 1.6-1.5 0-1-.7-1.5-1.7-1.5h-.7v3zM132.7 10.3V.1h1.9v8.5h3.1v1.7h-5zM153.8 10.3V.1h5.3v1.7h-3.4v2.3h2.6v1.7h-2.6v2.7h3.5v1.7h-5.4zM.9 10.3V.1h5.3v1.7H2.8v2.3h2.6v1.7H2.8v2.7h3.5v1.7H.9zM24.6 33.9V23.7h1.9v10.2h-1.9zM44.1 33.9V23.7h2.1l2.7 6v-6h1.8v10.2h-1.9l-3-6.6v6.6h-1.7zM72.4 23.7v1.7h-2.3v8.5h-1.9v-8.5h-2.3v-1.7h6.5zM88.4 33.9V23.7h5.3v1.7h-3.4v2.3h2.6v1.7h-2.6v2.7h3.5v1.7h-5.4zM114.1 33.9l-1.7-4.1h-.9v4.1h-1.9V23.7h2.8c2.3 0 3.5 1.1 3.5 3 0 1.3-.5 2.2-1.5 2.6l1.9 4.5h-2.2zm-2.6-5.8h1c.9 0 1.4-.4 1.4-1.4 0-1-.5-1.4-1.4-1.4h-1v2.8zM136 30c0 .6-.4 1.1-1.1 1.1-.6 0-1.1-.5-1.1-1.1 0-.5.4-1.1 1.1-1.1.7.1 1.1.6 1.1 1.1zM152.9 35.6v-.7h7.1v.7h-7.1zM0 35.6v-.7h7.1v.7H0zM22.6 81.1V71h2.8c2.4 0 3.6 1.1 3.6 3s-1.2 3-3.6 3h-.9v4.1h-1.9zm2-5.7h1c1 0 1.4-.5 1.4-1.4 0-1-.5-1.4-1.4-1.4h-1v2.8zM44.2 74.2c0-2.5 1.3-3.4 3.2-3.4s3.2.9 3.2 3.4v3.6c0 2.5-1.3 3.4-3.2 3.4s-3.2-.9-3.2-3.4v-3.6zm1.9 3.9c0 1.1.5 1.4 1.3 1.4s1.3-.3 1.3-1.4V74c0-1.1-.5-1.4-1.3-1.4s-1.3.3-1.3 1.4v4.1zM70.7 81.1L69 77h-.9v4.1h-1.9V71H69c2.3 0 3.5 1.1 3.5 3 0 1.3-.5 2.2-1.5 2.6l1.9 4.5h-2.2zm-2.6-5.7h1c.9 0 1.4-.4 1.4-1.4 0-1-.5-1.4-1.4-1.4h-1v2.8zM87.3 81.1L89.8 71h2.5l2.5 10.2h-1.9l-.5-2.2h-2.7l-.6 2.1h-1.8zm2.8-3.8H92l-.9-4.1-1 4.1zM111.6 81.1V71h1.9v10.2h-1.9zM131.6 81.1V71h2.1l2.7 6v-6h1.8v10.2h-1.9l-3-6.6v6.6h-1.7zM0 82.9v-.7h7.1v.7H0zM24.3 54.4c0 1.1.5 1.4 1.3 1.4s1.3-.3 1.3-1.4v-.7h1.9v.4c0 2.5-1.3 3.4-3.2 3.4-1.9 0-3.2-.9-3.2-3.4v-3.6c0-2.5 1.3-3.4 3.2-3.4 1.9 0 3.2.9 3.2 3.4h-1.9v-.3c0-1.1-.5-1.4-1.3-1.4s-1.3.3-1.3 1.4v4.2zM44.2 50.5c0-2.5 1.3-3.4 3.2-3.4s3.2.9 3.2 3.4v3.6c0 2.5-1.3 3.4-3.2 3.4s-3.2-.9-3.2-3.4v-3.6zm1.9 3.9c0 1.1.5 1.4 1.3 1.4s1.3-.3 1.3-1.4v-4.1c0-1.1-.5-1.4-1.3-1.4s-1.3.3-1.3 1.4v4.1zM65.9 57.4V47.2H68l2.7 6v-6h1.8v10.2h-1.9l-3-6.6v6.6h-1.7zM94.3 47.2v1.7H92v8.5h-1.9v-8.5h-2.3v-1.7h6.5zM110 57.4V47.2h5.3v1.7h-3.4v2.3h2.6V53h-2.6v2.7h3.5v1.7H110zM130.4 57.4V47.2h2.7l1.8 6.7 1.8-6.7h2.7v10.2h-1.7v-8l-2.1 8h-1.5l-2.1-8v8h-1.6zM157.5 53.6c0 .6-.4 1.1-1.1 1.1-.6 0-1.1-.5-1.1-1.1 0-.5.4-1.1 1.1-1.1.7 0 1.1.5 1.1 1.1z"/>
+    <path class="logo-dots" d="M152.9 82.9v-.7h7.1v.7h-7.1zM4.6 53.6c0 .6-.4 1.1-1.1 1.1-.6 0-1.1-.5-1.1-1.1 0-.5.4-1.1 1.1-1.1.7 0 1.1.5 1.1 1.1z" fill="#ff4a4a"/>
+</svg></a>
+        <a href="javascript:void(0);" title="See menu" id="primary-expand" class="expand">
+	<span class="label">See menu</span>
+	<span class="icon"></span>
+</a>
+<nav id="primary">
+    <a href="https://www.ensembleintercontemporain.com/en/calendar/">What’s on</a>
+<a href="https://www.ensembleintercontemporain.com/en/a-soloists-ensemble/">About Us</a>
+<a href="https://www.ensembleintercontemporain.com/en/magazine/" class=" green">Discover more</a>
+	<div class="min">
+		<nav class="socialbar">
+	<a href="http://www.facebook.com/Ensemble.inter" target="_blank" title="Follow us on Facebook">
+		<span class="label">Follow us on Facebook</span>
+		<span class="icon-facebook"></span>
+	</a>
+	<a href="https://twitter.com/Ensemble_inter" target="_blank" title="Follow us on Twitter">
+		<span class="label">Follow us on Twitter</span>
+		<span class="icon-twitter"></span>
+	</a>
+	<a href="https://www.instagram.com/ensemble.intercontemporain" target="_blank" title="Follow us on Instagram">
+		<span class="label">Follow us on Instagram</span>
+		<span class="icon-instagram"></span>
+	</a>
+	<a href="https://www.youtube.com/user/ensembleinter" target="_blank" title="Follow us on Youtube">
+		<span class="label">Follow us on Youtube</span>
+		<span class="icon-youtube"></span>
+	</a>
+	<a href="https://soundcloud.com/ensembleintercontemporain" target="_blank" title="Follow us on Soundcloud">
+		<span class="label">Follow us on Soundcloud</span>
+		<span class="icon-soundcloud"></span>
+	</a>
+</nav>		<form id="newsletterForm" enctype="multipart/form-data" method="post" action="//ensembleinter.us9.list-manage.com/subscribe/post?u=297877aeaa65cd9e8f511b654&amp;id=682d4683f0">
+	<div class="input-container">
+        <input type="email" name="EMAIL" required="" placeholder="Sign up to our mailing list">
+		<button class="submit">
+			<span class="icon-expedition"></span>
+			<span class="label">ok</span>
+		</button>
+	</div>
+</form>
+
+		<ul class="lang-chooser">
+            <li class="active"><a href="https://www.ensembleintercontemporain.com/en/concert/trois-temps-2-2023-05-23-20h00-paris/">EN</a></li>
+            <li class=""><a href="https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/">FR</a></li>
+    </ul>
+
+	</div>
+</nav>        <div id="navbar">
+            <nav class="socialbar">
+	<a href="http://www.facebook.com/Ensemble.inter" target="_blank" title="Follow us on Facebook">
+		<span class="label">Follow us on Facebook</span>
+		<span class="icon-facebook"></span>
+	</a>
+	<a href="https://twitter.com/Ensemble_inter" target="_blank" title="Follow us on Twitter">
+		<span class="label">Follow us on Twitter</span>
+		<span class="icon-twitter"></span>
+	</a>
+	<a href="https://www.instagram.com/ensemble.intercontemporain" target="_blank" title="Follow us on Instagram">
+		<span class="label">Follow us on Instagram</span>
+		<span class="icon-instagram"></span>
+	</a>
+	<a href="https://www.youtube.com/user/ensembleinter" target="_blank" title="Follow us on Youtube">
+		<span class="label">Follow us on Youtube</span>
+		<span class="icon-youtube"></span>
+	</a>
+	<a href="https://soundcloud.com/ensembleintercontemporain" target="_blank" title="Follow us on Soundcloud">
+		<span class="label">Follow us on Soundcloud</span>
+		<span class="icon-soundcloud"></span>
+	</a>
+</nav>            <ul class="lang-chooser">
+            <li class="active"><a href="https://www.ensembleintercontemporain.com/en/concert/trois-temps-2-2023-05-23-20h00-paris/">EN</a></li>
+            <li class=""><a href="https://www.ensembleintercontemporain.com/fr/concert/trois-temps-2-2023-05-23-20h00-paris/">FR</a></li>
+    </ul>
+
+        </div>
+    </header>    <main>
+                                <section class="full mobile-visible">
+            <div class="img-header">
+                <div class="background" style="background:url(https://www.ensembleintercontemporain.com/content/uploads/2022/06/eic-arts-florissants-orchestre-de-paris-2019ceic-dscf0994-1024x690.jpg);"></div>
+            </div>
+        </section>
+                <section class="full has_sidebar">
+            <aside class="red">
+                <a href="https://www.ensembleintercontemporain.com/en/calendar/" title="Retour" class="back">
+                    <span class="label">Retour</span>
+                    <span class="icon-close"></span>
+                </a>
+                <section>
+                    <h1>TROIS TEMPS</h1>
+                    <div class="date">
+                        <span class="date-day">Tuesday</span>
+                        <span class="date-d">23</span>
+                        <span class="date-month">May</span>
+                                                    <span class="date-year">2023</span>
+                                            </div>
+                    <span class="time">20:00</span>
+                    <div class="location">
+                        <span class="city">Paris </span>
+                        <span class="place">Philharmonie de Paris - Le Studio</span>
+                    </div>
+
+                                        <p class="excerpt">Suite française...</p>
+                    
+                                            <span class="duration">Event duration : 1:30</span>
+                    
+                                    </section>
+                                <section>
+                    <span class="title">Program</span>
+                    <p><strong>Jean-Philippe RAMEAU</strong><br />
+<strong><em>Pièces de clavecin en concerts</em></strong> (extraits)</p>
+<p><strong>Camille SAINT-SAËNS</strong><br />
+<strong><em>Septuor en mi bémol majeur</em></strong> op. 65<br />
+pour trompette, deux violons, alto, violoncelle, contrebasse et piano</p>
+<p><strong>Florence BASCHET</strong><br />
+<strong><em>Si par un jour…</em></strong>, pour quatuor à cordes et piano<br />
+Création mondiale<br />
+Commande Ensemble intercontemporain, Orchestre de Paris et Philharmonie de Paris</p>
+<p>Tarifs : 33€ / 10€ (- de 28 ans)</p>
+<p>Photo : Musicien.ne.s des Arts Florissants, de l’Orchestre de Paris et de l’Ensemble intercontemporain, Philharmonie de Paris, 2019 © EIC</p>
+                </section>
+                                <section>
+                    <nav class="actions">
+                                                <a href="https://philharmoniedeparis.fr/fr/activite/musique-de-chambre/24377-trois-temps?itemId=122664" target="_blank" title="Réserver">Book</a>
+                                                <a href="javascript:void(0);" title="Partager" data-rel="#overlay-share" class="overlayON">Share</a>
+                                                <a href="https://www.ensembleintercontemporain.com/en/concert/trois-temps-2-2023-05-23-20h00-paris/?ics" target="_blank" title="Ajouter au calendrier">Add to my calendar</a>
+                        
+                        
+                                                    <a href="https://www.ensembleintercontemporain.com/en/concert/un-souffle-de-lumiere-2023-06-09-20h00-paris/" title="Concert suivant">Concert suivant &gt;</a>
+                        
+                                                    <a href="https://www.ensembleintercontemporain.com/en/concert/theatre-et-musique-2023-05-12-20h00-nimes/" title="Concert précédent">&lt; Concert précédent</a>
+                                            </nav>
+                </section>
+
+                
+                            </aside>
+            <section class="content">
+                                    <section class="full desktop-visible">
+                        <div class="img-header">
+                            <div class="background" style="background:url(https://www.ensembleintercontemporain.com/content/uploads/2022/06/eic-arts-florissants-orchestre-de-paris-2019ceic-dscf0994-1024x690.jpg);"></div>
+                        </div>
+                    </section>
+                                <section>
+                    
+                    <p><span style="font-size: 14pt;">Dès ses premiers récitals de piano, Camille Saint-Saëns portait en lui un goût de la musique ancienne. Vers la fin de sa vie, comme une consécration, il travaille à l’édition des œuvres de Jean-Philippe Rameau. Répondant au besoin de s’émanciper de la musique allemande, Saint-Saëns trouve dans la musique de Rameau une source inépuisable de richesses et de beautés. Dans son <em>Septuor</em> pour trompette, cordes et piano, il associe les couleurs claires de la musique française avec un piano évoquant Franz Liszt. La création pour quatuor à cordes et piano de la compositrice française Florence Baschet apportera le contrepoint contemporain au concert. Il y sera question « d’énergie, de vibration et même d’irréversibilité du temps ».</p>
+<p></span></p>
+
+                                                            <span class="title">Cast</span>
+                    <ul class="columns">
+                                                <li>
+                            <p><strong>Solistes de l’Ensemble intercontemporain</strong><br />
+<strong>Musicien.ne.s de l’Orchestre de Paris</strong><br />
+<strong>Musicien.ne.s des Arts Florissants</strong></p>
+                        </li>
+                                                                    </ul>
+                    
+                                        
+                    
+                                                        </section>
+                            </section>
+        </section>
+            </main>
+<footer>
+    <nav id="secondary">
+    	<a href="javascript:void(0);" title="Contact" data-rel="#overlay-page-14839" class="overlayON">Contact us</a>
+    	<a href="javascript:void(0);" title="Contact" data-rel="#overlay-page-14846" class="overlayON">Legals</a>
+    	<a href="javascript:void(0);" title="Contact" data-rel="#overlay-page-14842" class="overlayON">Credits</a>
+    </nav>    <a href="javscript:void(0);" title="Vers le haut" class="scrollUp">
+        <span class="icon-up"></span>
+        <span class="label">Upwards</span>
+    </a>
+    <div id="overlay-page-14842" class="popup overlay">
+    <div class="overlay-content">
+        <a href="javascript:void(0);" title="Close" class="close overlayOFF">
+            <span class="label">Close</span>
+            <span class="icon-close"></span>
+        </a>
+        <div class="content">
+            <span class="title">Credits</span>
+                        <p><strong>Copyright : </strong>toute reproduction même partielle d’un article est soumise à l’autorisation de l’Ensemble intercontemporain.  Les photographies et les images de ce site sont protégées par copyright. Il est interdit de les utiliser sans demander l’autorisation du détenteur des droits de la photographie ou de l’image.</p>
+<p><strong>Conception graphique du site</strong> : <a href="http://belleville.eu" target="_blank" rel="noopener noreferrer">b</a><a href="http://belleville.eu" target="_blank" rel="noopener noreferrer">elleville </a></p>
+<p><strong>Intégration et développement du site</strong> : <a href="http://www.agence-hybrid.com">Hybrid </a></p>
+        </div>
+    </div>
+</div><div id="overlay-page-14846" class="popup overlay">
+    <div class="overlay-content">
+        <a href="javascript:void(0);" title="Close" class="close overlayOFF">
+            <span class="label">Close</span>
+            <span class="icon-close"></span>
+        </a>
+        <div class="content">
+            <span class="title">Legals</span>
+                        <p><strong>Directeur de publication </strong>:  Olivier Leymarie</p>
+<p><strong>Copyright</strong>: Ensemble intercontemporain</p>
+<p>Toute reproduction même partielle d’un article est soumise à l’autorisation de l’Ensemble intercontemporain.  Les photographies et les images de ce site sont protégées par copyright. Il est interdit de les utiliser sans demander l’autorisation du détenteur des droits de la photographie ou de l’image.</p>
+<p><strong>Ensemble intercontemporain  </strong></p>
+<p>Association loi 1901<br />
+N° Siret 30666486300033<br />
+Code NAF 9001Z<br />
+Licence d&#8217;entrepreneur de spectacles n° 2-1033622 cat 2</p>
+<p>223 avenue Jean-Jaurès  75019 Paris – France</p>
+<p>Tél. +33 (0) 1 44 84 44 50<br />
+contact@ensembleinter.com</p>
+<p><strong>Utilisation des données personnelles</strong></p>
+<p>Lorsque vous vous inscrivez à la newsletter de l’Ensemble intercontemporain, votre email est utilisé pour vous envoyer des informations régulières sur nos activités.<br />
+Nous pouvons aussi relayer des informations ou des offres de nos partenaires auxquels nous ne communiquons pas vos données.<br />
+Vous pouvez vous désabonner à tout instant de notre newsletter en cliquant sur « vous désinscrire de cette liste » dans le bas de page de la newsletter.</p>
+<p>Conformément à la loi «informatique et libertés» du 6 janvier 1978, vous bénéficiez d’un droit d’accès et de rectification aux informations qui vous concernent. Si vous souhaitez exercer ce droit et obtenir communication des informations vous concernant, veuillez vous adresser au Responsable du service communication</p>
+<p><strong>Avertissement</strong>: Programmes et informations donnés sous réserve de modifications.</p>
+<p><strong>Hébergement :<br />
+ISVTEC<br />
+</strong>14 avenue de l&#8217;Opéra<br />
+75001 Paris<br />
+contact@isvtec.com<br />
+Tél. : +33 (0)1 84 16 16 17</p>
+        </div>
+    </div>
+</div><div id="overlay-page-14839" class="popup overlay">
+	<div class="overlay-content">
+		<a href="javascript:void(0);" title="Close" class="close overlayOFF">
+			<span class="label">Close</span>
+			<span class="icon-close"></span>
+		</a>
+		<div class="content">
+			<span class="title">Contact us</span>
+                        <script type="text/javascript"></script>
+                <div class='gf_browser_unknown gform_wrapper gform_legacy_markup_wrapper' id='gform_wrapper_2' ><div id='gf_2' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_2' id='gform_2'  action='/en/concert/trois-temps-2-2023-05-23-20h00-paris/#gf_2' novalidate>
+                        <div class='gform_body gform-body'><ul id='gform_fields_2' class='gform_fields top_label form_sublabel_below description_below'><li id="field_2_1"  class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"  data-js-reload="field_2_1"><label class='gfield_label' for='input_2_1' >Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_text'><input name='input_1' id='input_2_1' type='text' value='' class='medium'    placeholder='Name' aria-required="true" aria-invalid="false"   /> </div></li><li id="field_2_2"  class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"  data-js-reload="field_2_2"><label class='gfield_label' for='input_2_2' >E-mail<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_2_2' type='email' value='' class='medium'   placeholder='E-mail' aria-required="true" aria-invalid="false"  />
+                        </div></li><li id="field_2_3"  class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"  data-js-reload="field_2_3"><label class='gfield_label' for='input_2_3' >Message<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_textarea'><textarea name='input_3' id='input_2_3' class='textarea medium'    placeholder='Message' aria-required="true" aria-invalid="false"   rows='10' cols='50'></textarea></div></li><li id="field_2_4"  class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible"  data-js-reload="field_2_4"><label class='gfield_label' for='input_2_4' >Phone</label><div class='ginput_container'><input name='input_4' id='input_2_4' type='text' value='' autocomplete='new-password'/></div></li></ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_2' class='gform_button button' value='Send'  onclick='if(window["gf_submitting_2"]){return false;}  if( !jQuery("#gform_2")[0].checkValidity || jQuery("#gform_2")[0].checkValidity()){window["gf_submitting_2"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_2"]){return false;} if( !jQuery("#gform_2")[0].checkValidity || jQuery("#gform_2")[0].checkValidity()){window["gf_submitting_2"]=true;}  jQuery("#gform_2").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=2&amp;title=&amp;description=&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_2' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='2' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_2' value='WyJbXSIsIjA0MmIzOGQ2MmJjYTdiY2UyZTM1NTZiMTA1ZjkwZjIwIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_2' id='gform_target_page_number_2' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_2' id='gform_source_page_number_2' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_2' id='gform_ajax_frame_2' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+                <script type="text/javascript">
+gform.initializeOnLoaded( function() {gformInitSpinner( 2, 'https://www.ensembleintercontemporain.com/content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_2').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_2').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2').val();gformInitSpinner( 2, 'https://www.ensembleintercontemporain.com/content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_2').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_2').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_2').text());}, 50);}else{jQuery('#gform_2').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [2, current_page]);} );} );
+</script>
+
+		</div>
+	</div>
+</div><div id="overlay-share" class="popup overlay">
+	<div class="overlay-content">
+		<a href="javascript:void(0);" title="Close" class="close overlayOFF">
+			<span class="label">Close</span>
+			<span class="icon-close"></span>
+		</a>
+		<div class="content">
+			<span class="title">Share</span>
+			<nav class="sharebar">
+    <a href="mailto:?subject=TROIS TEMPS &#8211; 23/05/2023 20H00 &#8211; Paris&body=TROIS TEMPS &#8211; 23/05/2023 20H00 &#8211; Paris - https://www.ensembleintercontemporain.com/en/concert/trois-temps-2-2023-05-23-20h00-paris/" title=" Mail" class="mail">
+		<span class="icon-mail"></span>
+		<span class="label">Mail</span>
+	</a>
+	<a href="www.ensembleintercontemporain.com/en/concert/trois-temps-2-2023-05-23-20h00-paris/" title="Follow us on Twitter" target="_blank" class="twitter">
+		<span class="icon-twitter"></span>
+		<span class="label">Follow us on Twitter</span>
+	</a>
+	<a href="www.ensembleintercontemporain.com/en/concert/trois-temps-2-2023-05-23-20h00-paris/" title="Follow us on Facebook" target="_blank" class="facebook">
+		<span class="icon-facebook"></span>
+		<span class="label">Follow us on Facebook</span>
+	</a>
+</nav>		</div>
+	</div>
+</div><div id="overlay-newsletter" class="popup overlay">
+	<div class="overlay-content">
+		<a href="javascript:void(0);" title="Close" class="close overlayOFF">
+			<span class="label">Close</span>
+			<span class="icon-close"></span>
+		</a>
+		<div class="content">
+			<span class="title">Subscribe to the newsletter</span>
+			<form id="newsletterForm" enctype="multipart/form-data" method="post" action="//ensembleinter.us9.list-manage.com/subscribe/post?u=297877aeaa65cd9e8f511b654&amp;id=682d4683f0">
+	<div class="input-container">
+        <input type="email" name="EMAIL" required="" placeholder="Sign up to our mailing list">
+		<button class="submit">
+			<span class="icon-expedition"></span>
+			<span class="label">ok</span>
+		</button>
+	</div>
+</form>
+
+		</div>
+	</div>
+</div></footer>
+</div>
+<noscript>
+    <style type="text/css">
+        .grid.init{opacity:1;overflow:auto;}
+    </style>
+</noscript>
+<script type="text/javascript" src="https://www.ensembleintercontemporain.com/content/themes/eic/assets/js/scripts.js?t=2022092309"></script>
+<script type="text/javascript" src="https://www.ensembleintercontemporain.com/content/themes/eic/assets/js/global.js?t=2022092309"></script>
+<script type='text/javascript' src='https://www.ensembleintercontemporain.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.ensembleintercontemporain.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://www.ensembleintercontemporain.com/wp-includes/js/dist/dom-ready.min.js?ver=d996b53411d1533a84951212ab6ac4ff' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://www.ensembleintercontemporain.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://www.ensembleintercontemporain.com/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://www.ensembleintercontemporain.com/wp-includes/js/dist/a11y.min.js?ver=a38319d7ba46c6e60f7f9d4c371222c5' id='wp-a11y-js'></script>
+<script type='text/javascript' src='https://www.ensembleintercontemporain.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.ensembleintercontemporain.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.ensembleintercontemporain.com/content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.3' id='gform_json-js'></script>
+<script type='text/javascript' id='gform_gravityforms-js-extra'>
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mon","tuesday":"Tue","wednesday":"Wed","thursday":"Thu","friday":"Fri","saturday":"Sat","sunday":"Sun"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/www.ensembleintercontemporain.com\/content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"Euro","symbol_left":"","symbol_right":"&#8364;","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2,"code":"EUR"},"base_url":"https:\/\/www.ensembleintercontemporain.com\/content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.ensembleintercontemporain.com\/content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://www.ensembleintercontemporain.com/content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.3' id='gform_gravityforms-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.ensembleintercontemporain.com/content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.6.3' id='gform_placeholder-js'></script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 2) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [2, 1]) } );
+</script>
+</body>
+</html>
